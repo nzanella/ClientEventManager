@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+  <channel>Segnalazione da parte di un cliente</channel>
+  <channel>Compagnia di Assicurazione</channel>
+  <channel>Segnalazione da parte di una SOA</channel>
+  <channel>Intermediario delle Assicurazioni</channel>
+  <channel>Sito Web</channel>
+  <channel>Campagna pubblicitaria su carta stampata</channel>
+  <channel>Newsletter</channel>
+  <channel>Campagna pubblicitaria via Internet</channel>
+  <channel>Agente</channel>
+  <channel>Consulente sistemi di Gestione</channel>
+  <channel>Professionista di settore non convenzionato</channel>
+  <channel>Appalto Pubblico</channel>
+  <channel>Affidamento Diretto</channel>
+  <channel>Non Determinato</channel>
+</channels>

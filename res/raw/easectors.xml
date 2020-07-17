@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<easectors>
+  <code>01</code><desc>Agricoltura, pesca (coltivazione, allevamento)</desc>
+  <code>02</code><desc>Estrazione di minerali (cave, miniere e giacimenti petroliferi)</desc>
+  <code>03</code><desc>Industrie alimentari, delle bevande e del tabacco</desc>
+  <code>04</code><desc>Prodotti tessili (semilavorati, prodotti finiti e abbigliamento</desc>
+  <code>05</code><desc>Fabbricazione di cuoio e di prodotti in cuoio</desc>
+  <code>06</code><desc>Prodotti in legno (semilavorati e prodotti finiti)</desc>
+  <code>07</code><desc>Prodotti della pasta-carta, della carta e dei prodotti in carta</desc>
+  <code>08</code><desc>Case editrici</desc>
+  <code>09</code><desc>Tipografia ed attività connesse alla stampa</desc>
+  <code>10</code><desc>Fabbricazione di coke e di prodotti petroliferi raffinati</desc>
+  <code>11</code><desc>Combustibili nucleari</desc>
+  <code>12</code><desc>Chimica di base, prodotti chimici e fibre chimiche</desc>
+  <code>13</code><desc>Prodotti farmaceutici</desc>
+  <code>14</code><desc>Prodotti in gomma e materie plastiche</desc>
+  <code>15</code><desc>Prodotti della lavorazione di materiali non metallici</desc>
+  <code>16</code><desc>Calce, gesso, calcestruzzo, cemento e relativi prodotti</desc>
+  <code>17</code><desc>Metalli e loro leghe, fabbricazione di prodotti in metallo</desc>
+  <code>18</code><desc>Macchine, apparecchi ed impianti meccanici</desc>
+  <code>19</code><desc>Macchine elettriche ed apparecchiature elettriche ed ottiche</desc>
+  <code>20</code><desc>Costruzioni e riparazioni navali</desc>
+  <code>21</code><desc>Aeromobili e veicoli spaziali</desc>
+  <code>22a</code><desc>Produzione di cicli, motocicli, autoveicoli, rimorchi e relative parti e accessori</desc>
+  <code>22b</code><desc>Produzione di materiale ferroviario e relativi accessori</desc>
+  <code>23a</code><desc>Produzione di gioielleria, oreficeria, bigiotteria</desc>
+  <code>23b</code><desc>Produzione di strumenti musicali</desc>
+  <code>23c</code><desc>Produzione di articoli sportivi</desc>
+  <code>23d</code><desc>Produzione di giochi e giocattoli</desc>
+  <code>23e</code><desc>Produzione di mobili e arredamento</desc>
+  <code>23f</code><desc>Produzione di prefabbricati per coibentazione e loro applicazione</desc>
+  <code>24</code><desc>Recupero, riciclo</desc>
+  <code>25</code><desc>Produzione e distribuzione di energia elettrica</desc>
+  <code>26</code><desc>Produzione e distribuzione di gas</desc>
+  <code>27</code><desc>Produzione e distribuzione di acqua</desc>
+  <code>28</code><desc>Imprese di costruzione, installatori di impianti e servizi</desc>
+  <code>28a</code><desc>Imprese di costruzione e manutenzione</desc>
+  <code>28b</code><desc>Imprese di installazione, conduzione e manutenzione d'impianti</desc>
+  <code>29a</code><desc>Commercio all'ingrosso, al dettaglio e intermediari del commercio</desc>
+  <code>29b</code><desc>Riparazione di cicli, motocicli e autoveicoli</desc>
+  <code>29c</code><desc>Riparazione di beni personali e per la casa</desc>
+  <code>30</code><desc>Alberghi, ristoranti e bar</desc>
+  <code>31</code><desc>Trasporti, magazzinaggi e comunicazioni</desc>
+  <code>31a</code><desc>Logistica: trasporti, magazzinaggio e spedizioni</desc>
+  <code>31b</code><desc>Poste e telecomunicazioni</desc>
+  <code>32</code><desc>Intermediazione finanziaria, attività immobiliari, noleggio</desc>
+  <code>32a</code><desc>Intermediazione monetaria e finanziaria e attività ausiliarie</desc>
+  <code>32b</code><desc>Assicurazioni e fondi pensione, escluse le assicurazioni sociali obbligatorie</desc>
+  <code>33</code><desc>Tecnologia dell'informazione</desc>
+  <code>34</code><desc>Studi di consulenza tecnica, ingegneria</desc>
+  <code>35</code><desc>Servizi professionali d'impresa</desc>
+  <code>36</code><desc>Pubblica amministrazione</desc>
+  <code>37</code><desc>Istruzione</desc>
+  <code>38</code><desc>Sanità ed altri servizi sociali</desc>
+  <code>38a</code><desc>Servizi Ospedalieri</desc>
+  <code>38b</code><desc>Servizi degli Studi medici e Servizi degli studi odontoiatrici</desc>
+  <code>38c</code><desc>Altri servizi sanitari: Laboratori di analisi cliniche, di Igiene e Profilassi e per immagini.</desc>
+  <code>38d</code><desc>Attività professionali paramediche indipendenti e altri servizi sanitari</desc>
+  <code>38e</code><desc>Servizi veterinari</desc>
+  <code>38f</code><desc>Assistenza sociale</desc>
+  <code>39</code><desc>Servizi pubblici</desc>
+</easectors>

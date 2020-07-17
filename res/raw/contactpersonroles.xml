@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<roles>
+  <role>Titolare</role>
+  <role>Ufficio Acquisti</role>
+  <role>Amministrazione</role>
+  <role>Ufficio Tecnico</role>
+  <role>Logistica</role>
+  <role>Magazzino</role>
+</roles>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.codestudioworks.clienteventmanager"
+  android:versionCode="1"
+  android:versionName="1.0">
+  <uses-sdk
+    android:minSdkVersion="10"
+    android:targetSdkVersion="14" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+  <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+  <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <!-- the following two should be no longer needed -->
+  <!--
+  <uses-permission android:name="android.permission.ACCOUNT_MANAGER" />
+  -->
+  <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+  <uses-permission android:name="android.permission.READ_CALENDAR" />
+  <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+  <application
+    android:allowBackup="true"
+    android:icon="@drawable/ic_launcher"
+    android:label="@string/app_name"
+    android:theme="@style/AppTheme">
+    <activity android:name=".MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:name=".ClientsActivity" />
+    <activity android:name=".ClientActivity" />
+    <activity android:name=".ClientBusinessAreasActivity" />
+    <activity android:name=".BusinessAreasActivity" />
+    <activity android:name=".BusinessAreaActivity" />
+    <activity android:name=".PeopleInChargeActivity" />
+    <activity android:name=".PersonInChargeActivity" />
+    <activity android:name=".PersonInChargeRolesActivity" />
+    <activity android:name=".PersonInChargeRoleActivity" />
+    <activity android:name=".BusinessCategoriesDoneActivity" />
+    <activity android:name=".BusinessCategoryActivity" />
+    <activity android:name=".InitialContactChannelsDoneActivity" />
+    <activity android:name=".InitialContactChannelActivity" />
+    <activity android:name=".ConsultantsDoneActivity" />
+    <activity android:name=".EmployeesDoneActivity" />
+    <activity android:name=".PaymentTypesDoneActivity" />
+    <activity android:name=".PaymentTypeActivity" />
+    <activity android:name=".BankAccountsDoneActivity" />
+    <activity android:name=".BankAccountActivity" />
+    <activity android:name=".TaxCategoriesDoneActivity" />
+    <activity android:name=".TaxCategoryActivity" />
+    <activity android:name=".WorkOrderLocationsActivity" />
+    <activity android:name=".WorkOrderLocationActivity" />
+    <activity android:name=".ClientPhoneCallsActivity" />
+    <activity android:name=".ClientPhoneCallActivity" />
+    <activity android:name=".ClientVisitsActivity" />
+    <activity android:name=".ClientVisitActivity" />
+
+    <activity android:name=".ConsultantsActivity" />
+    <activity android:name=".ConsultantActivity" />
+    <activity android:name=".EmployeesActivity" />
+    <activity android:name=".EmployeeActivity" />
+    <activity android:name=".EventsActivity" />
+    <activity android:name=".EventActivity" />
+    <activity android:name=".ClientsDoneActivity" />
+    <activity android:name=".SetupElatosActivity" />
+  </application>
+</manifest>

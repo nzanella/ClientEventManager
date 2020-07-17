@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  <!-- Title -->
+  <TextView
+    android:id="@+id/title"
+    android:gravity="center"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/title_background"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:text="### ADD OR MODIFY ###" />
+  <!-- List Divider -->
+  <View
+    android:layout_height="1dip"
+    android:layout_width="match_parent"
+    android:background="?android:attr/listDivider" />
+  <!-- Data Fields -->
+  <ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+      android:orientation="vertical"
+      android:layout_width="fill_parent"
+      android:layout_height="0dip">
+      <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bankAccount_label_bankAccountName" />
+      <EditText
+        android:id="@+id/bankAccountName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textCapWords" />
+      <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bankAccount_label_institutionNumber" />
+      <EditText
+        android:id="@+id/institutionNumber"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text" />
+      <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bankAccount_label_branchNumber" />
+      <EditText
+        android:id="@+id/branchNumber"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text" />
+      <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bankAccount_label_accountNumber" />
+      <EditText
+        android:id="@+id/accountNumber"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text" />
+      <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bankAccount_label_iban" />
+      <EditText
+        android:id="@+id/iban"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text" />
+    </LinearLayout>
+  </ScrollView>
+</LinearLayout>

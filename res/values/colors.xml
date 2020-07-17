@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- Color resources. -->
+  <color name="title_background">#FF00FF</color>
+  <color name="heading_background">#FFFF00</color>
+  <color name="add_background">#0000FF</color>
+  <color name="modify_background">#00FF00</color>
+  <color name="delete_background">#FF0000</color>
+  <color name="entries_rowSelected">#FF00FF</color>
+  <color name="entries_rowUnselected">#00FFFF</color>
+</resources>
